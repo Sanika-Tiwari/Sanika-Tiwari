@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning how to host websites
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me 
+
 Gmail: thesanikatiwari@gmail.com
 phone: +65 9619 7165
 
