@@ -5,7 +5,6 @@
 - 📫 How to reach me 
 
 Gmail: thesanikatiwari@gmail.com
-phone: +65 9619 7165
 
 <!---
 Sanika-Tiwari/Sanika-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
