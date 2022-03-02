@@ -1,6 +1,6 @@
 👋 Hi, I’m @Sanika-Tiwari
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to host websites
+- 🌱 I’m currently learning about bootstrap and responsive websites
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me 
 
